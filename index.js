@@ -213,7 +213,7 @@ conn.sendMessage(id, menu.menu3 ,MessageType.text);
    }
 
 
-   if (text.includes("!nulis"))
+   if (text.includes("!damn"))
    {
 
       const
